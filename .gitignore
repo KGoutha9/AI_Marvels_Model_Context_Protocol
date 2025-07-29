@@ -1,0 +1,4 @@
+#ignorning the following file
+.env
+.venv
+
