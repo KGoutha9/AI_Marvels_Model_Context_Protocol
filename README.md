@@ -229,20 +229,10 @@ async with MultiServerMCPClient({
 - [LangGraph Documentation](https://python.langchain.com/docs/langgraph)
 - [Azure OpenAI Service](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- **KGoutha9** - *Initial work* - [GitHub Profile](https://github.com/KGoutha9)
-
-## 🙏 Acknowledgments
-
-- Model Context Protocol team for the excellent framework
-- LangChain community for the integration adapters
-- Azure OpenAI for providing the AI capabilities
 
 ---
 
-**Note**: This is a demonstration project. For production use, implement proper security measures, error handling, and monitoring.
+**Note**: This is a demonstration project, do not use for Production. 
+For production use, implement proper security measures, error handling, and monitoring.
