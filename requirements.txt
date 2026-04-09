@@ -4,7 +4,7 @@ langchain-mcp-adapters>=0.0.7
 # langgraph>=0.3.21
 mcp>=1.6.0
 ipykernel
-
+Pandas
 
 langchain
 langgraph
